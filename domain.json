@@ -1,0 +1,10 @@
+{
+	"api": {
+		"php": ["p.hsxssdx.com", "p.mekxfj.com", "p.634ghdfh.com"],
+		"java": ["j.hsxssdx.com", "j.mekxfj.com", "j.634ghdfh.com"],
+		"socket": ["s.hsxssdx.com", "s.mekxfj.com", "s.634ghdfh.com"]
+	},
+	"img": ["img.qstuanwei.com", "img.vbcage.com"],
+	"video": ["video.qstuanwei.com", "video.vbcage.com"],
+	"share": ["vblovely.com/share", "vbo3.com/share"]
+}
